@@ -8,9 +8,6 @@ Segment customers based on Recency, Frequency, and Monetary value to identify ke
 - RFM scoring and segmentation  
 - Data cleaning & preparation in Excel / SQL  
 
-### Dashboard Preview
-![Dashboard Screenshot](./Dashboard_1.png)
-
 ### Live Dashboard
 [View on Tableau Public](https://public.tableau.com/views/RFMCustomerSegmentation_17599414409700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
