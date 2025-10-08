@@ -9,10 +9,10 @@ Segment customers based on Recency, Frequency, and Monetary value to identify ke
 - Data cleaning & preparation in Excel / SQL  
 
 ### Dashboard Preview
-![Dashboard Screenshot](./dashboard_preview.png)
+![Dashboard Screenshot](./Dashboard_1.png)
 
 ### Live Dashboard
-[View on Tableau Public](https://public.tableau.com/views/YourRFMProjectLink)
+[View on Tableau Public](https://public.tableau.com/views/RFMCustomerSegmentation_17599414409700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Key Insights
 - Top 20% of customers drive 70% of revenue  
