@@ -40,8 +40,6 @@ It was created as part of a hands-on data visualization assignment, with focus o
 ## 🗺️ Dashboard Preview
 ![Dashboard Preview](./dashboard-screenshot.png)
 
-*(Replace this image with your actual Tableau dashboard screenshot)*
-
 ---
 
 ## 🌐 View the Interactive Dashboard
